@@ -1,0 +1,16 @@
+# Ambiente virtual
+.venv/
+venv/
+
+# Arquivos de dados gerados
+dados/
+relatorios/
+
+*.pbix
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Arquivo com token 
+.env
