@@ -135,6 +135,7 @@ Segurança: dados originais nunca são sobrescritos
 
  Licença
 Dados públicos do Sebrae-SP, disponíveis para fins educacionais, de pesquisa e aplicação profissional, seguindo as regras de uso da instituição.
----
-Desenvolvido por **YasmimLopes** | Focado em transformar dados brutos do Sebrae em inteligência de negócio robusta para o cenário de MPE de São Paulo.
 
+---
+Desenvolvido por **Yasmim Lopes** | Focado em transformar dados brutos do Sebrae em inteligência de negócio robusta para o cenário de MPE de São Paulo.
+---
