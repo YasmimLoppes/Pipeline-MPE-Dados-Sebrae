@@ -12,7 +12,7 @@ Além disso, implementa um **pipeline de dados replicável e escalável**, segui
 ---
 
 ##  Contexto e Importância
-As Micro e Pequenas Empresas representam mais de 99% dos estabelecimentos formais em São Paulo, respondem por cerca de 50% dos empregos gerados e são fundamentais para a economia estadual e nacional. No entanto, os dados brutos disponibilizados frequentemente apresentam inconsistências, campos ausentes, formatos mistos e falta de padronização — o que dificulta análises rápidas e seguras.
+As Micro e Pequenas Empresas representam mais de 99% dos estabelecimentos formais em São Paulo, respondem por cerca de 50% dos empregos gerados e são fundamentais para a economia estadual e nacional. No entanto, os dados brutos disponibilizados frequentemente apresentam inconsistências, campos ausentes, formatos mistos e falta de padronização o que dificulta análises rápidas e seguras.
 
 Este projeto resolve esse problema ao criar uma estrutura sólida que:
 - Preserva os dados originais sem alterações
@@ -83,13 +83,13 @@ Pipeline-MPE-Dados-Sebrae/
 ---
 
 ##  Tecnologias e Ferramentas Utilizadas
-| Ferramenta/Biblioteca | Versão | Finalidade |
-| Python | 3.11+ | Linguagem principal do pipeline |
-| Pandas | 2.2+ | Manipulação e análise de dados tabulares |
-| NumPy | 1.26+ | Cálculos matemáticos e tratamento de valores |
-| Requests | 2.31+ | Coleta de dados por API |
-| Power BI Desktop | Última | Construção de dashboard interativo |
-| Git/GitHub | — | Versionamento do projeto |
+| Ferramenta/Biblioteca | Versão | Finalidade 
+| Python | 3.11+ | Linguagem principal do pipeline 
+| Pandas | 2.2+ | Manipulação e análise de dados tabulares 
+| NumPy | 1.26+ | Cálculos matemáticos e tratamento de valores 
+| Requests | 2.31+ | Coleta de dados por API 
+| Power BI Desktop | Última | Construção de dashboard interativo 
+| Git/GitHub | Versionamento do projeto 
 
 ---
 
