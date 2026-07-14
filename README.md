@@ -58,7 +58,7 @@ Antes de qualquer alteração, passam por verificações rigorosas:
 
 ---
 
-## 📁 Estrutura Completa do Projeto
+##  Estrutura Completa do Projeto
 
 Pipeline-MPE-Dados-Sebrae/
 ├── dados/ # Todos os arquivos de dados
@@ -82,9 +82,8 @@ Pipeline-MPE-Dados-Sebrae/
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas Utilizadas
+##  Tecnologias e Ferramentas Utilizadas
 | Ferramenta/Biblioteca | Versão | Finalidade |
-|---|---|---|
 | Python | 3.11+ | Linguagem principal do pipeline |
 | Pandas | 2.2+ | Manipulação e análise de dados tabulares |
 | NumPy | 1.26+ | Cálculos matemáticos e tratamento de valores |
@@ -94,7 +93,7 @@ Pipeline-MPE-Dados-Sebrae/
 
 ---
 
-## 📈 Principais Indicadores e Análises Disponíveis
+##  Principais Indicadores e Análises Disponíveis
 - Quantidade de MPE por porte e por região do estado
 - Distribuição por setor econômico (Comércio, Serviços, Indústria, Agropecuária)
 - Taxa de formalização e evolução ao longo dos anos
@@ -104,7 +103,7 @@ Pipeline-MPE-Dados-Sebrae/
 
 ---
 
-## 🚀 Como Reproduzir o Projeto
+##  Como Reproduzir o Projeto
 ### Pré-requisitos
 - Python 3.11 ou superior
 - Gerenciador de pacotes `pip`
