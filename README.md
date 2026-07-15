@@ -129,5 +129,5 @@ Segurança: dados originais na pasta raw/ nunca são sobrescritos ou modificados
 Licença
 Os dados utilizados são públicos, disponibilizados pelo Sebrae-SP, e podem ser utilizados para fins educacionais, de pesquisa e aplicação profissional, seguindo as regras de uso definidas pela instituição.
 
-Desenvolvido por **Yasmim Loppes**
+Desenvolvido por Yasmim Loppes
 Focada em transformar dados brutos do Sebrae em inteligência de negócio para o cenário de Micro e Pequenas Empresas de São Paulo.
