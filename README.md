@@ -12,7 +12,7 @@ Além disso, implementa um **pipeline de dados replicável e escalável**, segui
 ---
 
 ##  Contexto e Importância
-As Micro e Pequenas Empresas representam mais de 99% dos estabelecimentos formais em São Paulo, respondem por cerca de 50% dos empregos gerados e são fundamentais para a economia estadual e nacional. No entanto, os dados brutos disponibilizados frequentemente apresentam inconsistências, campos ausentes, formatos mistos e falta de padronização — o que dificulta análises rápidas e seguras.
+As Micro e Pequenas Empresas representam mais de 99% dos estabelecimentos formais em São Paulo, respondem por cerca de 50% dos empregos gerados e são fundamentais para a economia estadual e nacional. No entanto, os dados brutos disponibilizados frequentemente apresentam inconsistências, campos ausentes, formatos mistos e falta de padronização o que dificulta análises rápidas e seguras.
 
 Este projeto resolve esse problema ao criar uma estrutura sólida que:
 - Preserva os dados originais sem nenhuma alteração
